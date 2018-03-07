@@ -7,5 +7,6 @@
 [Dependency injection](https://en.wikipedia.org/wiki/Dependency_injection)  
 [Guice - lightweight dependency injection framework](https://github.com/google/guice)  
 [Contexts and Dependency Injection for Java EE](https://docs.oracle.com/javaee/7/tutorial/partcdi.htm)  
+[Designing Reusable Classes](http://www.laputan.org/drc/drc.html)
 
 #### Criticism of DI
