@@ -10,4 +10,5 @@
 
 #### Criticism of DI
 
-[When is it not appropriate to use the dependency injection pattern?](https://softwareengineering.stackexchange.com/questions/135971/when-is-it-not-appropriate-to-use-the-dependency-injection-pattern)
+[When is it not appropriate to use the dependency injection pattern?](https://softwareengineering.stackexchange.com/questions/135971/when-is-it-not-appropriate-to-use-the-dependency-injection-pattern)  
+[What are the downsides to using dependency injection?](https://www.reddit.com/r/programming/comments/fir4j/what_are_the_downsides_to_using_dependency/)
