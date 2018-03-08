@@ -9,3 +9,5 @@
 [Contexts and Dependency Injection for Java EE](https://docs.oracle.com/javaee/7/tutorial/partcdi.htm)  
 
 #### Criticism of DI
+
+[When is it not appropriate to use the dependency injection pattern?](https://softwareengineering.stackexchange.com/questions/135971/when-is-it-not-appropriate-to-use-the-dependency-injection-pattern)
